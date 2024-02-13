@@ -3,9 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinxt&label=Profile%20views&color=0e75b6&style=flat" alt="rabinxt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rabinxt" alt="Rabinxt" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
