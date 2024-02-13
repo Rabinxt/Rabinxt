@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinxt&label=Profile%20views&color=0e75b6&style=flat" alt="rabinxt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabinxt" alt="rabinxt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rabinxt" alt="Rabinxt" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
