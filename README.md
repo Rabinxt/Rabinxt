@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Rabin Chhatkuli</h1>
   <h3 align="center">A passionate Software developer from Nepal</h3>
 
-  <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
+  <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" style=" padding-top:20px;">
 
   <ul>
     <li>🔭 I’m currently working on <strong>Python</strong></li>
