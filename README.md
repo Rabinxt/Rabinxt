@@ -152,4 +152,5 @@
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=rabinxt&show_icons=true&locale=en" alt="GitHub Stats" align="center"></p>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rabinxt" alt="GitHub Streak" align="center"></p>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Rabinxt&theme=radical)](https://git.io/streak-stats)
+
