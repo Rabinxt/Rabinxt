@@ -150,7 +150,7 @@
 ## Github Stats
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabinxt&show_icons=true&locale=en&layout=compact" alt="Top Languages" align="left"></p>
 
-  <p><img src="https://github-readme-stats.vercel.app/api?username=rabinxt&show_icons=true&locale=en" alt="GitHub Stats" align="center"></p>
+ ![Rabinxt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rabinxt&show_icons=true&theme=radical)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=Rabinxt&theme=radical)](https://git.io/streak-stats)
 
