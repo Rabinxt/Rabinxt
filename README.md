@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabinxt&label=Profile%20views&color=0e75b6&style=flat" alt="Rabin Xtkuli" width="90" height="20"/> </p>
 
 -  🔭 I’m Currently Working on ![React Logo](https://img.shields.io/badge/-React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-- 🌱 I’m currently learning ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- 🌱 Reach me : rabinchhatkuli.com.np
 <hr>
 
 ## 🌐 Connect me via
